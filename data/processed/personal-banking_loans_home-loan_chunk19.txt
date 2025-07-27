@@ -1,0 +1,1 @@
+. For resale cases, since the whole loan amount is disbursed in one go, emi on the whole loan amount start from the subsequent to the month of disbursement

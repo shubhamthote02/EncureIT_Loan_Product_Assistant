@@ -1,0 +1,2 @@
+Maximum loan amount will be lowest of loan amount assessed on the basis of Permissible Deduction norms, Maximum permissible LTV ratio, Loan amount requested.
+When does my home loan EMIs start?

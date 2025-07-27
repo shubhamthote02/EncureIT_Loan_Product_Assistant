@@ -1,0 +1,7 @@
+a) To pay lumpsum amount to continue with existing EMI & Tenor.
+b) To increase the Loan Tenor (within permissible tenor & Age limit)
+c) To increase the EMI to pay the loan within the existing tenor.
+d) Combination of any of the above.
+e) Switchover of loan to Fixed Rate regime (Applicable fixed ROI slabs & charges thereof are displayed at Bank’s website)
+f) Prepayment of loan, either in part or in full, to accommodate the increased Interest
+Note -

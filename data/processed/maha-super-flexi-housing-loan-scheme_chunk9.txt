@@ -1,0 +1,12 @@
+The per day interest calculation done in EOD in Flexi Home Loan account should be on Balance O/s of Loan Account less Credit Balance in linked Flexi Home SB account.
+11
+Security
+Equitable / Registered Mortgage of Property.
+12
+Processing Fee
+0.25 % of the loan amount (Subject to max. of Rs. 25,000/-)
+(
+currently waived up to 30.09.2024)
+Full waiver of Processing Fee for Govt. /State /Central Government / Public sector Employees in case of Takeover Loans
+Calculate EMI
+Internet Banking

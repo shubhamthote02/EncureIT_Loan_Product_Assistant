@@ -1,0 +1,11 @@
+8
+Repayment Period for Loan under this scheme
+Maximum repayment period
+: 5 years including moratorium period.
+Moratorium period
+: One year on the Principal amount, during which interest shall be payable.
+9
+Security
+Bank shall create Hypothecation / mortgage charge on the existing and proposed assets / securities of the borrower financed by the Bank under the Scheme, if any.
+Other Security Terms:
+No additional collateral security to be obtained for loan under this scheme.

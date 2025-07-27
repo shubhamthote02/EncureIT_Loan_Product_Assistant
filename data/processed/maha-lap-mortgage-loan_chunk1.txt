@@ -1,0 +1,11 @@
+Eligible Entities
+Individuals, Sole Proprietorship, Partnership Firms, HUFs, Company, LLP, engaged in trading, manufacturing/processing or rendering service activity
+Margin [LTV%]
+Minimum margin shall be 50% on the realizable value of the property [LTV of 50%].
+Quantum
+The minimum quantum of credit facility: Rs.10.00 Lakh.
+The maximum quantum of credit facility: Rs.20.00 Crore
+The maximum quantum of non-fund facility: Rs.10.00 Crore
+Rate of Interest
+RLLR based
+Security

@@ -1,0 +1,13 @@
+Loan Amount
+Maximum Rs. 20.00 Lakh
+Margin
+Minimum 15% of the cost of Vehicle (i.e. Ex Showroom price + RTO Charges + Insurance Charges)
+Rate of Interest
+1 year MCLR +0.25 % P.A.
+Security
+Loan amount upto Rs. 2.00 lakh
+Hypothecation of Vehicle.
+Loan amount above Rs. 2.00 lakh
+Hypothecation of Vehicle
+Mortgage of Land / Third Party Guarantee
+Repayment

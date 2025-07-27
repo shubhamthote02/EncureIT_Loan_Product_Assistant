@@ -1,0 +1,9 @@
+In case, collateral security is obtained then, the guarantee will be available only on the uncovered portion.
+12
+Guarantee coverage
+The entire funding (without collateral coverage) provided under LGSCAS shall be provided with credit guarantee coverage by NCGTC under the Scheme, as per details below:
+For Greenfield projects: 75% of funding
+For Brownfield projects: 50% of funding
+For all projects in aspirational districts:75% of funding
+13
+Time Period of Guarantee Cover

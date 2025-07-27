@@ -1,0 +1,24 @@
+4
+Eligible Quantum of Loan
+Maximum loan amount will be lowest of loan amount assessed on the basis of
+Permissible Deduction norms
+Maximum permissible LTV ratio
+Loan amount requested.
+5
+Loan Amount
+Minimum
+- Rs 50.00 Lakh
+Maximum
+- No Maximum Limit
+6
+Loan to value and Margins Norms
+Category of Loan (Individual Home Loan amount)
+LTV Ratio
+Up to Rs.75.00 Lakh
+80%
+Above Rs.75.00
+75%
+7
+Repayment period
+Maximum Repayment period of
+30 years

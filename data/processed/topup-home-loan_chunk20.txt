@@ -1,0 +1,5 @@
+Minimum Loan Amount: Rs. 1 Lakh
+Maximum Loan Amount: Rs. 10 Crore
+The loan quantum may be up to 200% of the Housing Loan sanction limit for those who have repaid for more than 2 years after commencement of repayment, or Rs. 10 crore, whichever is lower.
+For Housing loans who have repaid for more than 1 year and upto 2 years after commencement of repayment, the loan quantum may be 125% of Housing Loan sanction limit.
+What is the maximum age at loan maturity?

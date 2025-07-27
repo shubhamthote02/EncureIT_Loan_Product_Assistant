@@ -1,0 +1,6 @@
+13
+Time Period of Guarantee Cover
+Guarantee under the scheme is available upto maximum 5 years from the date of first disbursement.
+For brownfield projects
+: available upto 2 years from the Date of Commencement of Commercial Operations (DCCO), subject to a maximum guarantee period of 5 years from the date of first disbursement. Hence, in such cases, if the commercial operations start say at the end of 2 years, guarantee shall be available upto 2 more years.
+For greenfield projects

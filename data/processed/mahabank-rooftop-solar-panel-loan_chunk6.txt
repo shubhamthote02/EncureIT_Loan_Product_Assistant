@@ -1,0 +1,24 @@
+RLLR + 1.00%
+10.30%
+For Home Loan customers
+(Same rate as Home Loan)
+9
+Moratorium
+Upto 6 Months
+10
+Loan repayment period
+120 Months including moratorium
+11
+Processing Fees
+Nil
+12
+Account Handling Charges
+(Includes Documentation, Inspection/supervision, NeSL and CIBIL charges)
+Rs. 500 + 0.20 % of Loan amount
+Minimum
+Rs 500/-
+Maximum
+Rs 2500/-
+13
+Security
+Primary Security: -

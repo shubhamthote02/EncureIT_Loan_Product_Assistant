@@ -1,0 +1,13 @@
+5
+Eligible Loan Amount
+Maximum loan amount will be assessed on the basis of Permissible Deduction norms
+Minimum
+– Rs 2.00 Lakhs
+Maximum
+– Rs 50.00 Lakhs
+Maximum Quantum of Loan will be Lowest of the following.
+70 % of latest Market value as per valuation certificate issued by certified pre-owned car Dealer / 70% of invoice value from showroom of authorized dealers.
+Or
+100% of Insured Declared Value (IDV) as per Motor Insurance Policy.
+6
+Margin

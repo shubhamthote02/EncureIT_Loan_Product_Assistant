@@ -1,0 +1,10 @@
+Repayment
+Gold Loan Repayment
+Repayment Mode
+A) Term Loan Facility
+1. Principal Equally Distributed / EMI
+Pricipal:
+The maximum repayment period is 24 Months. Repayment should be fixed in terms of monthly / quarterly / half yearly / Yearly.
+Interest:
+Interest should be charged on monthly basis and should be serviced as and when applied
+2. Bullet Repayment

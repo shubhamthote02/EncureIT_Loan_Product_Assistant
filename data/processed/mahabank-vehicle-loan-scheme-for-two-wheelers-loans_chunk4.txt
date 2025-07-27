@@ -1,0 +1,21 @@
+Maximum Loan amount:
+-  Rs 5.00 Lakh
+High End Two wheeler -  2 wheelers (Super Bike
+)
+Minimum
+Loan Amount
+- Rs 5.00 Lakh
+Maximum Loan amount
+- Rs.25.00 Lakh
+6
+Margin
+Minimum 15% of On Road price of Vehicle.
+On Road price shall include Ex Show Room Price, Road Tax, Cost of Registration and Insurance (One Year or Three Years), excluding cost of accessories.
+7
+Repayment Period
+Maximum 60 months
+8
+Rate of Interest
+Click here to view the Interest Rate
+9
+Deduction

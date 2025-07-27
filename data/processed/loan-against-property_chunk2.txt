@@ -1,0 +1,22 @@
+Based on
+repaying capacity
+and subject to the ceilings given below
+Rs. in crore
+Min.
+0.05
+Max.
+Properties located at Metros
+10.00
+Properties located at other centres
+5.00
+6
+Margin
+For Loans up to Rs.1.00 Cr:
+40% of the Realizable value of the property
+For Loans above Rs.1.00 Cr:
+50% of the Realizable value of the property
+7
+Repayment Period
+Maximum Repayment period of 10 years or on borrower reaching the age of 75 years whichever is earlier.
+8
+Rate of Interest
