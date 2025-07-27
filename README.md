@@ -15,6 +15,7 @@ A Retrieval-Augmented Generation (RAG) assistant that answers questions about Ba
 - [AI Tools Used](#ai-tools-used)
 - [Challenges Faced](#challenges-faced)
 - [Potential Improvements](#potential-improvements)
+- [Demo](#demo)
 - [Contact](#contact)
 
 ---
