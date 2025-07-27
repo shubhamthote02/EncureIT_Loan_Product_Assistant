@@ -134,7 +134,7 @@ How did you approach chunking your text data for the vector search? Why that str
 - Advanced RAG: Add question classification, better prompt engineering, or smarter context selection.
 
 ## Demo  
-Add your Loom, YouTube, or Google Drive video walkthrough link here.
+- https://www.loom.com/share/130407b90dd143fd9b9e3f9b7bcf314a?sid=8b13779b-8d21-4917-8435-1e97569f0e4e
 
 ## Contact
 For questions or suggestions, please contact:  
